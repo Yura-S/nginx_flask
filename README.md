@@ -76,3 +76,14 @@ Stop and remove the containers
 ```
 $ docker compose down
 ```
+
+
+
+
+
+
+
+
+
+
+needs `nginx/fullchain3.pem` and `nginx/privkey3.pem`
